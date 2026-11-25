@@ -1,0 +1,8 @@
+{
+  "name": "*IKPP Monitoring Dashboard [ Made In Alfin DS ]",
+  "description": "Pancaran One IKPP Monitoring Dashboard - Interactive tracking of orders, fleet availability, and shipments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
